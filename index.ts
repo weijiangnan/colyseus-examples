@@ -44,7 +44,7 @@ app.use('/', express.static(path.join(__dirname, "static")));
 app.use('/', serveIndex(path.join(__dirname, "static"), { 'icons': true }))
 
 
-app.use('/colyseus', monitor(gameServer));
+// app.use('/colyseus', monitor(gameServer));
 
 gameServer.onShutdown(function () {
   console.log(`game server is going down.`);
