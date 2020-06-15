@@ -1,0 +1,536 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"case"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"j",
+				"json_resp"
+			],
+			[
+				"RadioSta",
+				"RadioStationListVersion"
+			],
+			[
+				"Wa",
+				"WarningWindow"
+			],
+			[
+				"Room",
+				"RoomTopNotice"
+			],
+			[
+				"User",
+				"UserProductGiftUpdate"
+			],
+			[
+				"Stop",
+				"StopShowKickUserGift"
+			],
+			[
+				"En",
+				"EnterRoom"
+			],
+			[
+				"ProductList",
+				"ProductList_UpdateDefaultProduct"
+			],
+			[
+				"Produ",
+				"ProductList_Remove"
+			],
+			[
+				"Pro",
+				"ProductList_Update"
+			],
+			[
+				"Gi",
+				"GiftPiece"
+			],
+			[
+				"de",
+				"dependsOn"
+			],
+			[
+				"co",
+				"compileVersion"
+			],
+			[
+				"cl",
+				"closure"
+			],
+			[
+				"pr",
+				"privatePerson"
+			],
+			[
+				"Pe",
+				"Person"
+			],
+			[
+				"date",
+				"date_to"
+			],
+			[
+				"v",
+				"version"
+			],
+			[
+				"str",
+				"strMsg"
+			],
+			[
+				"da",
+				"date_from"
+			],
+			[
+				"str_",
+				"str_before"
+			],
+			[
+				"get",
+				"get_version_message"
+			],
+			[
+				"in",
+				"inner_version"
+			],
+			[
+				"do",
+				"downloadUrl"
+			],
+			[
+				"as",
+				"as_string"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"s",
+				"split"
+			],
+			[
+				"bu",
+				"bug_id"
+			],
+			[
+				"fu",
+				"func main\tfunc main {...} ʂ"
+			],
+			[
+				"im",
+				"import\timport (...) ʂ"
+			],
+			[
+				"P",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"conf",
+				"confMediaDev"
+			],
+			[
+				"set",
+				"setRelease"
+			],
+			[
+				"se",
+				"setDev"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "node",
+		"selected_items":
+		[
+			[
+				"node",
+				"Snippet: Snippet: NodeJS EventEmitter"
+			],
+			[
+				"Scri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"fata",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"j son",
+				"Set Syntax: JSON"
+			],
+			[
+				"forma",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"jsc",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"j",
+				"Set Syntax: Java"
+			],
+			[
+				"go buil",
+				"GoSublime: Run build command"
+			],
+			[
+				"gofmt",
+				"GoSublime: Fmt and save"
+			],
+			[
+				"go",
+				"GoSublime: New Go File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"GoSublime",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/weijiangnan/Desktop/git2/colyseus-examples/rooms/GameRoom.ts",
+		"/Users/weijiangnan/Downloads/qoiwey",
+		"/Users/weijiangnan/Downloads/15868550839825973810000",
+		"/Users/weijiangnan/Desktop/git/android_hanisdk/script/upload_archives.sh",
+		"/Users/weijiangnan/Desktop/git/momodev/build.gradle",
+		"/Users/weijiangnan/Desktop/TeambitionOrgnizer/版本",
+		"/Users/weijiangnan/Downloads/一起玩",
+		"/Users/weijiangnan/.gradle/gradle.properties",
+		"/Users/weijiangnan/Desktop/TeambitionOrgnizer/teambition_orgnizer.py",
+		"/Users/weijiangnan/Desktop/git/momodev/gradle.properties",
+		"/Users/weijiangnan/Desktop/git/momodev/RhythmGamePresenter.java",
+		"/Users/weijiangnan/Desktop/git/teambitionAutoImport/index_define.py",
+		"/Users/weijiangnan/Desktop/git/live-im-protocol/down.proto",
+		"/Users/weijiangnan/Downloads/settings",
+		"/Users/weijiangnan/Downloads/ext",
+		"/Users/weijiangnan/Desktop/git2/android_hanisdk/hanisdk/src/main/java/com/immomo/molive/api/ApiConfig.java",
+		"/Users/weijiangnan/Desktop/git/android_hanisdk/.git/hooks/commit-msg",
+		"/Users/weijiangnan/Downloads/没有历史记录了",
+		"/Users/weijiangnan/Downloads/CF486D48-D28F-2F5B-83ED-4712E58091CB20190909.7-9",
+		"/Users/weijiangnan/Downloads/bugreport-CLT-AL00-HUAWEICLT-AL00-2019-08-01-10-49-58/FS/data/anr/anr_2019-08-01-10-50-01-245",
+		"/Users/weijiangnan/Desktop/直播间业务/xxx.txt",
+		"/Users/weijiangnan/Downloads/No.1199_image_upload-master/app/imgup/app/src/main/java/com/bao/imgup/api/BaseRequest.java",
+		"/Users/weijiangnan/Desktop/opt/礼物优化计划（Q3，第一版单独分支，单独公测）",
+		"/Users/weijiangnan/ppl.log",
+		"/Users/weijiangnan/Desktop/git/android_hanisdk/hanisdk/src/main/java/com/immomo/molive/media/player/IjkPlayer.java",
+		"/Users/weijiangnan/Downloads/crashlog1",
+		"/Users/weijiangnan/Desktop/work/1w/SmsnMonitor/config",
+		"/Users/weijiangnan/Desktop/work/1w/config",
+		"/Users/weijiangnan/Desktop/work/config",
+		"/Users/weijiangnan/Downloads/971E1366-5A52-5392-3F92-F1D6D8C5C2FF20190130_L/config.json",
+		"/Users/weijiangnan/run.log",
+		"/Users/weijiangnan/Downloads/r11s011401.log",
+		"/Users/weijiangnan/Desktop/git/ttcocos/tiktap/temp/quick-scripts/assets/game1/scripts/Game1.js",
+		"/Users/weijiangnan/Downloads/201812212119.txt",
+		"/Users/weijiangnan/Downloads/anr554.txt",
+		"/Users/weijiangnan/Desktop/git/ttcocos/tiktap/assets/game1/scripts/Game1.js",
+		"/Users/weijiangnan/Desktop/git/ttcocos/tiktap/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml",
+		"/Users/weijiangnan/Desktop/midi",
+		"/Users/weijiangnan/Desktop/git/wire/wire-compiler/pb/down.proto",
+		"/Users/weijiangnan/Desktop/git/wire/wire-compiler/out/com/immomo/molive/impb/bean/UpProtos_1.java",
+		"/Users/weijiangnan/Desktop/git/wire/wire-compiler/out/com/immomo/molive/impb/bean/DownProtos_1.java",
+		"/Users/weijiangnan/Desktop/git/wire/wire-compiler/out/com/immomo/molive/impb/bean/down.java",
+		"/Users/weijiangnan/Desktop/git2/wire/config/checkstyle/checkstyle.xml",
+		"/Users/weijiangnan/Desktop/git2/wire/wire-tests/output/com/immomo/molive/impb/bean/UpProtos.java",
+		"/Users/weijiangnan/Desktop/work/pb_thin/down.proto",
+		"/Users/weijiangnan/Desktop/git/wire/wire-compiler/build/distributions/wire-compiler-2.3.0-SNAPSHOT/bin/wire-compiler",
+		"/Users/weijiangnan/Desktop/work/xxxt",
+		"/Users/weijiangnan/Downloads/201811211758.txt",
+		"/Users/weijiangnan/Library/Logs/AndroidStudio3.0/idea.log",
+		"/Users/weijiangnan/Downloads/R112003.txt",
+		"/Users/weijiangnan/Downloads/xiaomi5S201811131859.txt",
+		"/Users/weijiangnan/Downloads/VIVOX20a1902.txt",
+		"/Users/weijiangnan/Downloads/2124 (1).txt",
+		"/Users/weijiangnan/Downloads/traces (12).txt",
+		"/Users/weijiangnan/Downloads/OPPOR11slog3001.log",
+		"/Users/weijiangnan/Desktop/git/ttcocos/tiktap/assets/scripts/Game.js",
+		"/Users/weijiangnan/xxxx.log",
+		"/Users/weijiangnan/Desktop/git2/momodev/app/src/main/java/com/immomo/molive/ui/livemain/HomeListFragment.java",
+		"/Users/weijiangnan/Desktop/git2/momodev/build.gradle",
+		"/Users/weijiangnan/Desktop/log8.281 (1).txt",
+		"/Users/weijiangnan/Desktop/08-03 10:57:18.647 22567-22796:com.immomo.molive.l",
+		"/Users/weijiangnan/Downloads/归档 (5)/config.json",
+		"/Users/weijiangnan/Downloads/归档 (4)/config.json",
+		"/Users/weijiangnan/Desktop/3.8/归档/untitled.json",
+		"/Users/weijiangnan/Desktop/3.8/归档/config.json",
+		"/Users/weijiangnan/Desktop/git2/git_log.txt",
+		"/Users/weijiangnan/Desktop/git2/android_hanisdk/code_style/commit-msg",
+		"/Users/weijiangnan/Desktop/git/momodev/code_style/git_commit.sh",
+		"/Users/weijiangnan/Desktop/git/momodev/code_style/commit-msg-backup.sh",
+		"/Users/weijiangnan/Desktop/git2/android_hanisdk/.git/hooks/commit-msg",
+		"/Users/weijiangnan/Desktop/git/momodev/code_style/install.sh",
+		"/Users/weijiangnan/Desktop/git/momodev/.git/hooks/commit-msg.sample",
+		"/Users/weijiangnan/Downloads/full (1).json",
+		"/Users/weijiangnan/Downloads/11.txt",
+		"/Users/weijiangnan/Desktop/309/归档/config.json",
+		"/Users/weijiangnan/Downloads/full.json",
+		"/Users/weijiangnan/Desktop/git2/momodev/upload.py",
+		"/Users/weijiangnan/Downloads/logaa啊3.26.txt",
+		"/Users/weijiangnan/Desktop/test_gradle/build.gradle",
+		"/Users/weijiangnan/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/weijiangnan/Downloads/MomoLiveSDKDemo_v0.1.5.1803141/SdkDemo/app/libs/livesdk-open/jni/armeabi/anr/traces.txt",
+		"/Users/weijiangnan/Desktop/git2/android_hanisdk/livesdk-pkg/package.gradle",
+		"/Users/weijiangnan/Desktop/git/livesdk-open-website/website/sidebars.json",
+		"/Users/weijiangnan/Desktop/git/livesdk-open-website/website/siteConfig.js",
+		"/Users/weijiangnan/Desktop/docs/exampledoc5.md",
+		"/Users/weijiangnan/Desktop/git/android_hanisdk/hanisdk-release/build/intermediates/bundles/default/res/values/values.xml",
+		"/Users/weijiangnan/Desktop/git/momodev/gitmessage.py",
+		"/Users/weijiangnan/Desktop/MomoLiveSDK/MomoLiveSDK_v0.1.180227/Executing tasks: [assembleRelease]2",
+		"/Users/weijiangnan/Desktop/MomoLiveSDK/MomoLiveSDK_v0.1.180227/Executing tasks: [assembleRelease]",
+		"/Users/weijiangnan/Desktop/git/android_hanisdk/livesdk-pkg/build/intermediates/bundles/default/R.txt",
+		"/Users/weijiangnan/Downloads/build.gradle",
+		"/Users/weijiangnan/Desktop/git/android_hanisdk/hanisdk/libs/okhttputils-release/classes.jar",
+		"/Users/weijiangnan/Desktop/git3/android_hanisdk/livesdk/build.gradle",
+		"/Users/weijiangnan/Desktop/git3/mws-dist/run.log",
+		"/Users/weijiangnan/Desktop/git2/momodev/pp.log",
+		"/Users/weijiangnan/Desktop/git/android_molive/app/src/main/java/com/immomo/molive/gui/activities/WebviewActivity.java",
+		"/Users/weijiangnan/Downloads/Hi all",
+		"/Users/weijiangnan/Downloads/log110000.txt",
+		"/Users/weijiangnan/Downloads/traces.txt",
+		"/Users/weijiangnan/Desktop/git/android_molive/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin",
+		"/Users/weijiangnan/Downloads/com.immomo.momo_issue_232167_crash_5A311460005C0001269741A6BF159BD1_1d03cbc6dffc11e7a40656847afe9799_0_v2.log",
+		"/Users/weijiangnan/Downloads/log2.txt",
+		"/Users/weijiangnan/Downloads/logaa啊12.71.txt",
+		"/Users/weijiangnan/Downloads/logaa啊12.7.txt",
+		"/Users/weijiangnan/Downloads/thurs11.txt",
+		"/Users/weijiangnan/Desktop/git/momodev/test.py",
+		"/Users/weijiangnan/Desktop/git/momodev/test.sh",
+		"/Users/weijiangnan/Desktop/git/momodev/ttx.txt",
+		"/Users/weijiangnan/Desktop/git/python/test.sh",
+		"/Users/weijiangnan/pppppll.log",
+		"/Users/weijiangnan/ppp.log",
+		"/Users/weijiangnan/Desktop/git/path/normal/momo_8.2.1_c1.apk",
+		"/Users/weijiangnan/Desktop/git2/momodev/pppppppppp.log",
+		"/Users/weijiangnan/Desktop/git/python/test.py",
+		"/Users/weijiangnan/Desktop/git2/android_hanisdk/hanisdk/src/main/java/com/immomo/molive/media/publish/PhoneLivePublishView.java",
+		"/Users/weijiangnan/Desktop/anr/traces_com.immomo.momo.dev.txt",
+		"/Users/weijiangnan/Desktop/绩效/PhoneLivePublishView.java",
+		"/Users/weijiangnan/Desktop/绩效/PublishView.java",
+		"/Users/weijiangnan/anr/traces.txt",
+		"/Users/weijiangnan/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/Users/weijiangnan/Library/Application Support/Sublime Text 3/Packages/GoSublime/main.go",
+		"/Users/weijiangnan/anr/traces_com.immomo.momo.txt",
+		"/Users/weijiangnan/oo.log",
+		"/Applications/Android Studio.app/Contents/bin/studio.vmoptions",
+		"/Users/weijiangnan/Desktop/git/runx2.log",
+		"/Users/weijiangnan/Desktop/git/momodev/molive_freeline.sh",
+		"/Users/weijiangnan/Desktop/git/momodev/multi_market.sh",
+		"/Users/weijiangnan/Desktop/git/android-ijkplayer/android/ijkplayer/build.gradle"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 187.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/weijiangnan/Desktop/ccgame/go":
+	{
+		"height": 136.0
+	},
+	"output.9o:///Users/weijiangnan/Desktop/ccgame/leafserver/src/server":
+	{
+		"height": 317.0
+	},
+	"output.9o:///Users/weijiangnan/Library/Application Support/Sublime Text 3/Packages/GoSublime":
+	{
+		"height": 136.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 172.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "tsconfig.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 187.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 381.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
