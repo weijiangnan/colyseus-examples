@@ -121,11 +121,17 @@ export class GameRoom extends Room {
     frame_list_push(data: any) {
         //每帧数据都塞进去
         // console.log("frame_list   push ", data);
-        if (this.frame_list[this.frame_index] == undefined) {
-            this.frame_list[this.frame_index] = [];
+        let index = this.frame_index;
+        let frame = JSON.parse(data);
+        if (frame.pdtFid != undefined && frame.pdtFid > index) {
+            index = frame.pdtFid;
         }
 
-        this.frame_list[this.frame_index].push(JSON.parse(data));
+        if (this.frame_list[index] == undefined) {
+            this.frame_list[index] = [];
+        }
+
+        this.frame_list[index].push(JSON.parse(data));
     }
 
     onCmd(client: Client, msgType: string, data: any) {
