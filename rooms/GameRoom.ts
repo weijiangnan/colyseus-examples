@@ -40,7 +40,7 @@ export class GameRoom extends Room {
         }
 
         this.frame_index = 0;
-        this.frame_interval = setInterval(this.tick.bind(this), 18.5);
+        this.frame_interval = setInterval(this.tick.bind(this), 49);
         this.frame_list = [];
     }
 
