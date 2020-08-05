@@ -11,7 +11,7 @@ export class GameLogic {
     // When client successfully join the room
     onJoin(client: Client) {
         this.clients.push(client);
-        if (this.clients.length == 2) {
+        if (this.clients.length == 1) {
             this.downGameInfo(client);    
         }
     }
@@ -40,7 +40,7 @@ export class GameLogic {
         for (let i = 0, len = this.clients.length; i < len; i++) {
             let gameInfo = { myUid: this.clients[i].sessionId, rdSeed: 9999,
                 userList: [{uid: this.clients[0].sessionId, name: "选手1", avatar: "https://img.momocdn.com/album/43/E8/43E8316B-58A1-DA39-B384-9CD6091C61B220191025_S.jpg"},
-                {uid: this.clients[1].sessionId, name: "选手2", avatar: "https://img.momocdn.com/album/43/E8/43E8316B-58A1-DA39-B384-9CD6091C61B220191025_S.jpg"}]
+                {uid: "AI", name: "AI", avatar: "https://img.momocdn.com/album/43/E8/43E8316B-58A1-DA39-B384-9CD6091C61B220191025_S.jpg", robot: 1}]
              };
 
             this.sendMessage(this.clients[i], "down.game.info", gameInfo);

@@ -6,7 +6,7 @@ import { GameLogic } from "./GameLogic";
 export class GameRoom extends Room {
     seed: number = 0;
 
-    FRAME_RATE: number = 60;
+    FRAME_RATE: number = 20;
     frame_index: number = 0;
     frame_interval: any = null;
     frame_list: any[] = [[]];
